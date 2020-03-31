@@ -48,7 +48,8 @@ body {
   display: table;
   width: 100%;
   height: 40%;
- 
+  padding-top: 4rem;
+  padding-bottom: 3rem;
   margin: 0 auto;
   background: linear-gradient(90deg, rgba(0, 0, 0, 0.5) 20%, rgba(0, 0, 0, 0.5) 80%), url("../img/portada beneficios.png");
   background-position: center center;
@@ -9729,7 +9730,7 @@ button.bg-dark:focus {
 }
 
 .font-weight-bold {
-  font-weight: 700 !important;
+  font-weight: 500 !important;
 }
 
 .font-weight-bolder {
@@ -9742,6 +9743,7 @@ button.bg-dark:focus {
 
 .text-white {
   color: #fff !important;
+
 }
 
 .text-primary {
@@ -10111,4 +10113,61 @@ hr.light {
 
 .text-white-75 {
   color: rgba(255, 255, 255, 0.75);
+}
+
+footer{
+	width: 100%;
+	background: purple;
+	color: white;
+	padding: 40px;
+
+}
+
+.container-fooder-all{
+	width: 100%;
+	max-width: 1200px;
+	margin: auto;
+}
+
+.container-body{
+	display: flex;
+	justify-content: space-between;
+}
+
+/**/
+.colum1{
+	max-width: 400px;
+}
+.colum1 h4{
+	font-size:26px;
+}
+.column1 h5{
+	margin-top:-10px;
+}
+
+/**/
+.colum2{
+	max-width: 400px;
+}
+.colum2 h4{
+	font-size:26px;
+}
+.column2 h5{
+	margin-top:-10px;
+}
+
+/**/
+.colum3{
+	max-width: 400px;
+}
+
+@media screen and (max-width: 1100px){
+	.container-body{
+		flex-wrap: wrap;
+	}
+
+	.colum2,
+	.colum3{
+		margin-top: 40px;
+	}
 }
