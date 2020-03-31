@@ -37,6 +37,28 @@ body {
   outline: 0 !important;
 }
 
+#logoportada{
+  width: 110px;
+  height: 45px;
+}
+
+#Caracteristicas{
+  min-height: 30rem;
+  position: relative;
+  display: table;
+  width: 100%;
+  height: auto;
+  padding-top: 6rem;
+  padding-bottom: 15px;
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.5) 20%, rgba(0, 0, 0, 0.5) 80%), url("../img/portada beneficios.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+ width: 100%;
+ background-size: 100%
+}
+
+
+
 hr {
   box-sizing: content-box;
   height: 0;
@@ -9968,7 +9990,7 @@ hr.light {
   color: #6f42c1;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: #6f42c1 !important;
+  color: yellow !important;
 }
 @media (min-width: 992px) {
   #mainNav {
@@ -9994,19 +10016,19 @@ hr.light {
   #mainNav.navbar-scrolled {
     transition: all 1.5s ease;
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
-    background-color: #fff;
+    background-color: purple;
   }
   #mainNav.navbar-scrolled .navbar-brand {
     color: #212529;
   }
   #mainNav.navbar-scrolled .navbar-brand:hover {
-    color: #6f42c1;
+    color: yellow;
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link {
     color: #212529;
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link:hover {
-    color: #6f42c1;
+    color: yellow;
   }
 }
 
@@ -10018,7 +10040,7 @@ hr.light {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/bg-masthead.jpg");
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.5) 20%, rgba(0, 0, 0, 0.5) 80%), url("../img/portada home.png");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
