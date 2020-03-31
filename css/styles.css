@@ -47,17 +47,28 @@ body {
   position: relative;
   display: table;
   width: 100%;
+  height: 40%;
+ 
+  margin: 0 auto;
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.5) 20%, rgba(0, 0, 0, 0.5) 80%), url("../img/portada beneficios.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+ background-size: 100%
+}
+
+#imagencontacto{
+  min-height: 30rem;
+  position: relative;
+  display: table;
+  width: 100%;
   height: auto;
   padding-top: 6rem;
   padding-bottom: 15px;
-  background: linear-gradient(90deg, rgba(0, 0, 0, 0.5) 20%, rgba(0, 0, 0, 0.5) 80%), url("../img/portada beneficios.png");
   background-position: center center;
   background-repeat: no-repeat;
  width: 100%;
  background-size: 100%
 }
-
-
 
 hr {
   box-sizing: content-box;
@@ -9990,7 +10001,7 @@ hr.light {
   color: #6f42c1;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: yellow !important;
+  color: rgb(223, 226, 21) !important;
 }
 @media (min-width: 992px) {
   #mainNav {
@@ -10016,19 +10027,19 @@ hr.light {
   #mainNav.navbar-scrolled {
     transition: all 1.5s ease;
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
-    background-color: purple;
+    background-color: whitesmoke;
   }
   #mainNav.navbar-scrolled .navbar-brand {
     color: #212529;
   }
   #mainNav.navbar-scrolled .navbar-brand:hover {
-    color: yellow;
+    color: rgb(223, 226, 21);
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link {
     color: #212529;
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link:hover {
-    color: yellow;
+    color: rgb(223, 226, 21);
   }
 }
 
