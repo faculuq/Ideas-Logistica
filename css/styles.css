@@ -7479,6 +7479,7 @@ button.bg-dark:focus {
 .my-0 {
   margin-bottom: 0 !important;
   color: black;
+  font-size: 15px;
 }
 
 .ml-0,
