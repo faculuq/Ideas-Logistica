@@ -10126,11 +10126,15 @@ hr.light {
 
 /* FOOTER */
 
+/*footer responsivo*/
 footer{
 	width: 100%;
 	background: purple;
 	color: white;
-	padding: 40px;
+  padding: 160px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+	margin-top: -50px;
 
 }
 
@@ -10147,7 +10151,7 @@ footer{
 
 /**/
 .colum1{
-	max-width: 400px;
+	max-width: 450px;
 }
 .colum1 h4{
 	font-size:26px;
@@ -10169,7 +10173,7 @@ footer{
 
 /**/
 .colum3{
-	max-width: 400px;
+	max-width: 350px;
 }
 
 @media screen and (max-width: 1100px){
