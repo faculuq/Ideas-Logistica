@@ -42,13 +42,17 @@ body {
   height: 45px;
 }
 
+.text-white{
+  font-size: 10px;
+}
+
 #Caracteristicas{
   min-height: 30rem;
   position: relative;
   display: table;
   width: 100%;
   height: 40%;
-  padding-top: 4rem;
+  padding-top: 10px;
   padding-bottom: 3rem;
   margin: 0 auto;
   background: linear-gradient(90deg, rgba(0, 0, 0, 0.5) 20%, rgba(0, 0, 0, 0.5) 80%), url("../img/portada beneficios.png");
@@ -375,6 +379,7 @@ h2, .h2 {
 
 h3, .h3 {
   font-size: 1.75rem;
+  color: black;
 }
 
 h4, .h4 {
@@ -392,6 +397,7 @@ h6, .h6 {
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
+  margin-bottom: 15px;
 }
 
 .display-1 {
@@ -598,8 +604,8 @@ pre code {
 .row {
   display: flex;
   flex-wrap: wrap;
-  margin-right: -15px;
-  margin-left: -15px;
+  margin-right: -80px;
+  margin-left: -80px;
 }
 
 .no-gutters {
@@ -620,8 +626,8 @@ pre code {
 .col-auto, .col-12, .col-11, .col-10, .col-9, .col-8, .col-7, .col-6, .col-5, .col-4, .col-3, .col-2, .col-1 {
   position: relative;
   width: 100%;
-  padding-right: 15px;
-  padding-left: 15px;
+  padding-right: 35px;
+  padding-left: 35px;
 }
 
 .col {
@@ -1342,7 +1348,7 @@ pre code {
 
   .col-lg-10 {
     flex: 0 0 83.3333333333%;
-    max-width: 83.3333333333%;
+    max-width: 100%;
   }
 
   .col-lg-11 {
@@ -7472,6 +7478,7 @@ button.bg-dark:focus {
 .mb-0,
 .my-0 {
   margin-bottom: 0 !important;
+  color: black;
 }
 
 .ml-0,
@@ -7881,6 +7888,7 @@ button.bg-dark:focus {
 .my-auto {
   margin-bottom: auto !important;
 }
+
 
 .ml-auto,
 .mx-auto {
