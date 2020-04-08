@@ -58,7 +58,8 @@ body {
   background: linear-gradient(90deg, rgba(0, 0, 0, 0.5) 20%, rgba(0, 0, 0, 0.5) 80%), url("../img/portada beneficios.png");
   background-position: center center;
   background-repeat: no-repeat;
- background-size: 100%
+  background-size: cover;
+
 }
 
 #imagencontacto{
