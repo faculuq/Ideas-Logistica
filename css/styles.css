@@ -10045,13 +10045,13 @@ hr.light {
     color: #212529;
   }
   #mainNav.navbar-scrolled .navbar-brand:hover {
-    color: rgb(223, 226, 21);
+    color: #f3cb04;
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link {
     color: #212529;
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link:hover {
-    color: rgb(223, 226, 21);
+    color: #f3cb04;
   }
 }
 
@@ -10130,7 +10130,7 @@ hr.light {
 /*footer responsivo*/
 footer{
 	width: 100%;
-	background: purple;
+	background: #642464;
 	color: white;
   padding: 160px;
   padding-top: 40px;
