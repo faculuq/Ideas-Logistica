@@ -4,6 +4,11 @@
 
 body{
 	font-family: 'Lato', sans-serif;
+	width:90%;
+	margin:auto;
+	min-width:600px;
+	max-width:2000px;
+	position: absolute;
 }
 
 #Caracteristicas{
@@ -21,9 +26,9 @@ ul{
 /*footer responsivo*/
 footer{
 	width: 100%;
-	background: purple;
+	background: #642464;
 	color: white;
-	padding: 160px;
+	padding: 130px;
 	margin-top: -50px;
 
 }
