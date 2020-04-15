@@ -1,6 +1,19 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
+    "C:\\Users\\facul\\OneDrive\\Documents\\GitHub\\Ideas-Logistica\\Ideas_Logistica_AD\\Ideas_Logistica_AD.vbproj": {}
+  },
+  "projects": {
+    "C:\\Users\\facul\\OneDrive\\Documents\\GitHub\\Ideas-Logistica\\Ideas_Logistica_AD\\Ideas_Logistica_AD.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\facul\\OneDrive\\Documents\\GitHub\\Ideas-Logistica\\Ideas_Logistica_AD\\Ideas_Logistica_AD.vbproj",
+        "projectName": "Ideas_Logistica_AD",
+        "projectPath": "C:\\Users\\facul\\OneDrive\\Documents\\GitHub\\Ideas-Logistica\\Ideas_Logistica_AD\\Ideas_Logistica_AD.vbproj",
+        "packagesPath": "C:\\Users\\facul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\facul\\OneDrive\\Documents\\GitHub\\Ideas-Logistica\\Ideas_Logistica_AD\\obj\\",
+=======
     "C:\\Users\\usuario\\Documents\\GitHub\\Ideas-Logistica\\Ideas_Logistica_AD\\Ideas_Logistica_AD.vbproj": {}
   },
   "projects": {
@@ -12,6 +25,7 @@
         "projectPath": "C:\\Users\\usuario\\Documents\\GitHub\\Ideas-Logistica\\Ideas_Logistica_AD\\Ideas_Logistica_AD.vbproj",
         "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\usuario\\Documents\\GitHub\\Ideas-Logistica\\Ideas_Logistica_AD\\obj\\",
+>>>>>>> 64ceeae0429205529e2866b703fd6880c238b9e4
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

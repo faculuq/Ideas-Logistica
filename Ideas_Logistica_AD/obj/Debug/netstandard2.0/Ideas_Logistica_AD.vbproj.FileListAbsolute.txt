@@ -13,8 +13,17 @@ C:\Users\facul\Good Apps\Ideas_Logistica\Ideas_Logistica_AD\obj\Debug\netstandar
 C:\Users\facul\Good Apps\Ideas_Logistica\Ideas_Logistica_AD\obj\Debug\netstandard2.0\Ideas_Logistica_AD.vbproj.CopyComplete
 C:\Users\facul\Good Apps\Ideas_Logistica\Ideas_Logistica_AD\obj\Debug\netstandard2.0\Ideas_Logistica_AD.dll
 C:\Users\facul\Good Apps\Ideas_Logistica\Ideas_Logistica_AD\obj\Debug\netstandard2.0\Ideas_Logistica_AD.pdb
+<<<<<<< HEAD
+C:\Users\facul\OneDrive\Documents\GitHub\Ideas-Logistica\Ideas_Logistica_AD\obj\Debug\netstandard2.0\Ideas_Logistica_AD.vbprojAssemblyReference.cache
+C:\Users\facul\OneDrive\Documents\GitHub\Ideas-Logistica\Ideas_Logistica_AD\obj\Debug\netstandard2.0\Ideas_Logistica_AD.vbproj.CoreCompileInputs.cache
+C:\Users\facul\OneDrive\Documents\GitHub\Ideas-Logistica\Ideas_Logistica_AD\obj\Debug\netstandard2.0\Ideas_Logistica_AD.AssemblyInfoInputs.cache
+C:\Users\facul\OneDrive\Documents\GitHub\Ideas-Logistica\Ideas_Logistica_AD\obj\Debug\netstandard2.0\Ideas_Logistica_AD.AssemblyInfo.vb
+C:\Users\facul\OneDrive\Documents\GitHub\Ideas-Logistica\Ideas_Logistica_AD\obj\Debug\netstandard2.0\Ideas_Logistica_AD.dll
+C:\Users\facul\OneDrive\Documents\GitHub\Ideas-Logistica\Ideas_Logistica_AD\obj\Debug\netstandard2.0\Ideas_Logistica_AD.pdb
+=======
 C:\Users\usuario\Documents\GitHub\Ideas-Logistica\Ideas_Logistica_AD\obj\Debug\netstandard2.0\Ideas_Logistica_AD.vbprojAssemblyReference.cache
 C:\Users\usuario\Documents\GitHub\Ideas-Logistica\Ideas_Logistica_AD\obj\Debug\netstandard2.0\Ideas_Logistica_AD.AssemblyInfoInputs.cache
 C:\Users\usuario\Documents\GitHub\Ideas-Logistica\Ideas_Logistica_AD\obj\Debug\netstandard2.0\Ideas_Logistica_AD.AssemblyInfo.vb
 C:\Users\usuario\Documents\GitHub\Ideas-Logistica\Ideas_Logistica_AD\obj\Debug\netstandard2.0\Ideas_Logistica_AD.dll
 C:\Users\usuario\Documents\GitHub\Ideas-Logistica\Ideas_Logistica_AD\obj\Debug\netstandard2.0\Ideas_Logistica_AD.pdb
+>>>>>>> 64ceeae0429205529e2866b703fd6880c238b9e4
