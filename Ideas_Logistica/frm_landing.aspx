@@ -74,9 +74,9 @@
 
 				<div class="container-contact100-form-btn" runat="server">
                     
-					
-						<asp:Button ID="btn_enviar" class="contact100-form-btn" runat="server"  Text="Enviar" Height="50px" Width="150px" />
-					
+					<button class="contact100-form-btn" id="btnEnviar" runat="server">
+						<asp:Button ID="btn_enviar" class="contact100-form-btn" runat="server"  Text="Enviar" />
+					</button>
 				</div>
 			</form>
 
